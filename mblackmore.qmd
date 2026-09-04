@@ -1,0 +1,55 @@
+---
+title: "Teeth"
+author: "Malea Blackmore"
+format: html
+---
+
+## Systemic Diseases Indicated by Teeth and Oral Health
+
+The condition of teeth, periodontal tissues, and salivary flow frequently provides the earliest clinical clues for systemic diseases. Because oral tissues turn over rapidly and are heavily vascularized, they are uniquely sensitive to nutritional, hormonal, metabolic, and inflammatory changes throughout the body.
+
+![Healthy teeth and gums](teeth.jpg){fig-align="center" width="80%"}
+
+*Figure 1: Visual appearance of healthy oral structures.*
+
+### Visual Appearance: Healthy vs. Diseased Oral Tissues
+
+| Feature | Healthy State | Diseased / Warning State |
+|:---|:---|:---|
+| **Gum Color** | Pale coral-pink (or uniform natural pigmentation) | Fiery red, purplish, or dusky red margins indicating inflammation |
+| **Gum Texture & Margin** | Stippled ("orange-peel" texture), knife-edge margins hugging teeth tightly | Puffy, smooth, shiny, rolled margins that pull away from tooth surfaces |
+| **Gum Stability** | Firm, resilient; no bleeding during flossing or brushing | Bleeds easily on contact; purulent discharge (pus) from periodontal pockets |
+| **Tooth Alignment & Length** | Uniform crown length; teeth stay firmly in natural position | Teeth look elongated due to gum recession; gaps form as teeth drift or loosen |
+| **Tooth Enamel & Surface** | Smooth, translucent, glossy enamel | Dull, chalky-white demineralized spots; yellow dentin showing through eroded enamel; dark cavities |
+
+### 1. Cardiovascular Disease and Atherosclerosis
+- **Mechanism:** Periodontal pathogens, particularly *Porphyromonas gingivalis*, can enter the bloodstream through micro-ulcerations in inflamed periodontal pockets (bacteremia).
+- **Visual Appearance:** Deep reddish-purple, swollen gums that bleed upon minimal touch, deep pockets along the gumline, and noticeable recession exposing the darker root surfaces of teeth.
+- **Systemic Link:** The resulting systemic inflammatory response elevates biomarkers such as C-reactive protein (CRP) and interleukin-6 (IL-6), contributing to endothelial dysfunction, arterial plaque instability, and elevated cardiovascular risk.
+
+### 2. Type 2 Diabetes Mellitus
+- **Mechanism:** Hyperglycemia leads to advanced glycation end-products (AGEs), impairing neutrophil function, collagen turnover, and wound healing.
+- **Visual Appearance:** Fiery-red, enlarged gums that bleed profusely, recurrent periodontal abscesses (gum boils leaking pus), teeth drifting apart or tilting, and creamy-white plaques (oral thrush) on mucosal surfaces.
+- **Diagnostic Role:** Unexplained severe periodontitis in patients with normal dental hygiene is often the first indicator prompting an HbA1c screening.
+
+### 3. Osteoporosis and Bone Demineralization
+- **Mechanism:** Systemic bone mineral density (BMD) loss impacts the high-turnover alveolar bone that anchors tooth roots before affecting the hips or spine.
+- **Visual Appearance:** Pronounced gum recession, exposed yellow cementum/roots, teeth appearing unusually long, widening spaces between teeth, and unexplained tooth mobility or premature loss.
+- **Diagnostic Role:** Routine dental panoramic radiographs often reveal decreased mandibular cortical thickness, enabling early screening for osteoporosis before fragility fractures occur.
+
+### 4. Nutritional Deficiencies and Metabolic Disorders
+- **Vitamin C Deficiency (Scurvy):** Vitamin C is an indispensable cofactor for collagen synthesis. 
+  - *Visual Appearance:* Gums become intensely swollen, purplish-red, and "spongy," often bulging over the crowns of teeth. Gums bleed spontaneously, and teeth loosen and detach from their sockets.
+- **Vitamin D and Calcium Deficiencies:** 
+  - *Visual Appearance:* Enamel displays hypoplasia (rough pitted surfaces, horizontal grooves, or chalky/brown bands) with increased susceptibility to rapid decay.
+
+### 5. Gastrointestinal Disorders and Acid Erosion
+- **GERD and Bulimia Nervosa:** Chronic exposure of teeth to gastric acid (pH < 2.0) causes chemical dissolution of enamel (*perimylolysis*).
+  - *Visual Appearance:* Enamel looks thinned, glassy, and dull. The biting edges of front teeth appear chipped or translucent, and yellow dentin becomes exposed on the palatal (tongue-facing) surfaces.
+- **Crohn's Disease and Celiac Disease:** 
+  - *Visual Appearance:* Recurrent oval aphthous ulcers (canker sores) with gray centers and red halos, linear ulcers in the vestibule, and swollen "cobblestone" mucosal folds.
+
+### 6. Autoimmune Conditions (e.g., Sjögren's Syndrome)
+- **Mechanism:** Autoimmune destruction of salivary and lacrimal glands suppresses salivary flow (*xerostomia*).
+- **Visual Appearance:** Severe reduction of saliva leaves oral tissues dry, sticky, and glazed red. Rampant dental decay forms dark, soft rings encircling the cervical collars (gumlines) and exposed root surfaces of teeth.
+
